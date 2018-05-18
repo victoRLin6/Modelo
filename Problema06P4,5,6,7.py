@@ -16,9 +16,8 @@ while True:
   
   x+=1
   y=y+n
+  m=y/(x)
 print('Cantidad de numeros:'+str(x))
 print('Suma numeros:'+str(y))
-
-m=y/(x)
 print('Media:'+ str(m))
 print('Mas grande:'+ str(g))
