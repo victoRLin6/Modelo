@@ -1,6 +1,6 @@
 x=int(input())
 n=int(input())
-ex=1
+exponente=1
 for i in range(0,n):
-  ex=ex*x
-  print (ex)
+  exponente=exponente*x
+  print (exponente)
